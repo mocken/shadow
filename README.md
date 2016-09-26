@@ -1,4 +1,0 @@
-pga
-===
-
-Test of phonegap
